@@ -1,0 +1,32 @@
+Ctrl + Alt + T
+Abre una terminal
+Ctrl + L
+Limpia la pantalla de la terminal
+Ctrl + Shift + T
+Abre una nueva pestaña en la terminal
+Ctrl + Shift + W
+Cierra la pestaña actual en la terminal
+Ctrl + Shift + N
+Crea una nueva carpeta en la ubicación actual
+Ctrl + Shift + D
+Duplica la carpeta actual
+Ctrl + Shift + R
+Renombra la carpeta actual
+Ctrl + Shift + C
+Copia la selección actual
+Ctrl + Shift + V
+Pegar la selección copiada
+Alt + Tab
+Alternar entre las aplicaciones abiertas
+Ctrl + Alt + F1
+Cambia a la consola de texto
+Ctrl + Alt + F7
+Regresa a la interfaz gráfica de usuario.
+Ctrl + Z
+Suspende un proceso en ejecución
+Ctrl + C
+Termina un proceso en ejecución
+Ctrl + D
+Sale de la terminal actual.
+Ctrl + Shift + Q
+Cierra sesión actual.
