@@ -19,4 +19,4 @@ def is_perfect(n):
     else:
         return False
 
-print(is_perfect(int(input("Introduce a number to identify if it's perfect: ")))) # True
+print(is_perfect(int(input("Introduce a number to identify if it's perfect: "))))
