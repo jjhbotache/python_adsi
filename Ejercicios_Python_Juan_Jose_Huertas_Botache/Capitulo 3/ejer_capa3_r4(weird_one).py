@@ -5,5 +5,12 @@ Salida: 615
 """
 
 n = int(input("Insert number to calculate: "))
-print(n+n**2+n**3)
+
+print("--------------")
+print(n)
+print((n**2))
+print((n**3))
+print("--------------")
+print("result:")
+print((n)+(n*n)+(n*n*n))
 #5+25+125
